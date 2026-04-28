@@ -303,11 +303,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     /* ── HERO (replaces old <header>) ────────────────────────── */
     .hero {
-      /* background: linear-gradient(135deg, #0B6E4F, #094D38); */
+      background: linear-gradient(135deg, #0B6E4F, #094D38);
       color: #fff;
       padding: 56px 0 48px;
       text-align: center;
-          background: green;
+ 
     }
 
     .hero .badge {
