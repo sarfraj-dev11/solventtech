@@ -307,7 +307,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       color: #fff;
       padding: 56px 0 48px;
       text-align: center;
-          background: black;
+          background: green;
     }
 
     .hero .badge {
