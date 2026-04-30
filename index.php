@@ -786,7 +786,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="nav-links" role="menubar">
         <a href="#about" role="menuitem">About</a>
         <a href="#products" role="menuitem">Products</a>
-        <a href="#how" role="menuitem">How It Works</a>
+        <a href="#how" role="menuitem">How Purchase Works</a>
         <a href="#faq" role="menuitem">FAQ</a>
         <a href="#contact" role="menuitem">Contact</a>
       </div>
@@ -813,7 +813,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="mobile-menu" id="mobile-menu" aria-hidden="true">
     <a href="#about">About</a>
     <a href="#products">Products</a>
-    <a href="#how">How It Works</a>
+    <a href="#how">How Purchase Works</a>
     <a href="#faq">FAQ</a>
     <a href="#contact">Contact</a>
     <a href="<?= $phone_link ?>" class="m-cta">
