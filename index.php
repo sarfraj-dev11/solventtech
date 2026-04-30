@@ -846,7 +846,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container">
       <img
         src="https://solventtech.com/buy-antivirus-software.jpg"
-        alt="SolventTech support agent guiding a customer through remote antivirus installation"
+        alt="SolventTech Antivirus Software Subscription & Installation"
         style="width:100%;border-radius:var(--r);box-shadow:var(--sh);display:block;aspect-ratio:16/9;object-fit:cover;"
         loading="lazy">
     </div>
@@ -914,7 +914,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="steps">
         <div class="step">
           <h3>Choose Your Antivirus Software</h3>
-          <p>Call us to pick the right antivirus software for your PC or Mac — McAfee or Malwarebytes. We give transparent pricing upfront, no surprises.</p>
+          <p>Call us to pick the right antivirus software for your needs — Kaspersky, Bitdefender, McAfee, Malwarebytes, AVG, or Avast. We give transparent pricing upfront, no surprises.</p>
         </div>
         <div class="step">
           <h3>Complete Your Purchase</h3>
