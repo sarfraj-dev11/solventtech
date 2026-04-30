@@ -13,7 +13,7 @@ $org_address = '100 1st St Apt 121, Rockville, MD 20851';
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?= $brand ?> — Antivirus Software Sales &amp; Remote Installation</title>
-  <meta name="description" content="Buy Norton, McAfee, or Malwarebytes with guided remote installation from <?= $org_name ?>. Authorized reseller serving the U.S. Call <?= $phone ?>.">
+  <meta name="description" content="Buy antivirus software for your PC or computer — McAfee or Malwarebytes. Authorized reseller with remote installation included. Call <?= $phone ?>.">
   <meta name="robots" content="noindex, nofollow">
   <link rel="icon" type="image/png" href="https://solventtech.com/favicon.png">
   
@@ -438,6 +438,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       font-size: 1.1rem;
     }
 
+    .card .ic img {
+      width: 32px;
+      height: 32px;
+      object-fit: contain;
+      border-radius: 4px;
+    }
+
     .card h3 {
       font-size: .95rem;
       margin-bottom: 4px;
@@ -818,8 +825,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <section class="hero">
     <div class="container">
       <div class="badge">Authorized Reseller &bull; <?= $org_name ?></div>
-      <h1>Buy Antivirus Software with Guided Remote Installation</h1>
-      <p>Purchase Norton, McAfee, or Malwarebytes and get it professionally installed &amp; activated on your computer — all done remotely.</p>
+      <h1>Buy Antivirus Software &amp; Computer Security Protection</h1>
+      <p>Purchase McAfee or Malwarebytes antivirus software for your PC or Mac — with professional remote installation included.</p>
       <a href="<?= $phone_link ?>" class="hero-btn">
         <i class="fa-solid fa-phone" aria-hidden="true"></i> <?= $phone ?>
       </a>
@@ -851,31 +858,49 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <h2 class="stitle">What We Sell</h2>
       <div class="grid">
         <div class="card">
-          <div class="ic"><i class="fas fa-shield-virus" aria-hidden="true"></i></div>
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=kaspersky.com&sz=64" alt="Kaspersky" loading="lazy"></div>
           <div>
-            <h3>Norton Antivirus</h3>
-            <p>Purchase a Norton license with guided remote installation and activation on your Windows or Mac device.</p>
+            <h3>Internet Security Software</h3>
+            <p>Complete internet security and cyber protection software — guards your browsing, identity, and online activity across all devices.</p>
           </div>
         </div>
         <div class="card">
-          <div class="ic"><i class="fas fa-user-shield" aria-hidden="true"></i></div>
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=bitdefender.com&sz=64" alt="Bitdefender" loading="lazy"></div>
           <div>
-            <h3>McAfee Total Protection</h3>
-            <p>Buy McAfee with complete remote setup — we install, activate, and configure it for you.</p>
+            <h3>Antivirus for Windows PC</h3>
+            <p>Dedicated antivirus for Windows 10 and all Windows PCs and laptops — purchase includes remote installation and activation.</p>
           </div>
         </div>
         <div class="card">
-          <div class="ic"><i class="fas fa-bug-slash" aria-hidden="true"></i></div>
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=malwarebytes.com&sz=64" alt="Malwarebytes" loading="lazy"></div>
           <div>
-            <h3>Malwarebytes Premium</h3>
-            <p>Get Malwarebytes installed remotely. Purchase includes guided activation and initial scan setup.</p>
+            <h3>Virus &amp; Malware Protection</h3>
+            <p>Powerful virus and malware protection - blocks threats, spyware, and malicious software before they reach your device.</p>
+
+            
           </div>
         </div>
         <div class="card">
-          <div class="ic"><i class="fas fa-box-open" aria-hidden="true"></i></div>
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=avg.com&sz=64" alt="AVG" loading="lazy"></div>
           <div>
-            <h3>Software Bundles</h3>
-            <p>Combine antivirus with productivity software. Ask about bundle pricing for multiple licenses.</p>
+            <h3>AVG Antivirus</h3>
+            <p>Buy an AVG Antivirus subscription with guided remote setup — we handle installation and activation so you're protected right away.</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=avast.com&sz=64" alt="Avast" loading="lazy"></div>
+          <div>
+            <h3>Avast Antivirus</h3>
+            <p>Buy Avast Antivirus with guided remote setup — includes installation, activation, and configuration on your Windows or Mac device.</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=mcafee.com&sz=64" alt="McAfee" loading="lazy"></div>
+          <div>
+            <h3>Multi-Device &amp; Subscription Plans</h3>
+            <p>Antivirus subscription plans and bundles covering multiple devices — including McAfee Total Security and multi-seat license options.</p>
+
+
           </div>
         </div>
       </div>
@@ -888,8 +913,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <h2 class="stitle">How Purchasing Works</h2>
       <div class="steps">
         <div class="step">
-          <h3>Choose Your Product</h3>
-          <p>Call us to select the antivirus software and license type that fits your needs. We provide transparent pricing upfront.</p>
+          <h3>Choose Your Antivirus Software</h3>
+          <p>Call us to pick the right antivirus software for your PC or Mac — McAfee or Malwarebytes. We give transparent pricing upfront, no surprises.</p>
         </div>
         <div class="step">
           <h3>Complete Your Purchase</h3>
@@ -921,15 +946,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <h2 class="stitle">Frequently Asked Questions</h2>
 
       <div class="faq-item">
-        <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">What products do you sell?</button>
-        <div class="faq-a" role="region">We are an authorized reseller of Norton, McAfee, and Malwarebytes antivirus software. We also offer select productivity and security software bundles. All prices are provided upfront before purchase.</div>
+        <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">What antivirus software do you sell?</button>
+        <div class="faq-a" role="region">We are an authorized reseller of McAfee and Malwarebytes antivirus software for PC and Mac. We also offer computer antivirus + internet security bundles. All prices are provided upfront before purchase.</div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">Which antivirus software is best for my computer?</button>
+        <div class="faq-a" role="region">For most Windows PCs, McAfee antivirus provides comprehensive protection including real-time virus, malware, and internet security. Malwarebytes is ideal if you want dedicated anti-malware alongside your existing antivirus. Call us and we'll recommend the best option for your device and budget.</div>
       </div>
       <div class="faq-item">
         <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">How does remote installation work?</button>
         <div class="faq-a">After your purchase, we use encrypted remote-access software to install and activate your product on your computer. You grant permission before we connect, you can see everything on screen, and you can end the session at any time.</div>
       </div>
       <div class="faq-item">
-        <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">Are you affiliated with Norton, McAfee, or Malwarebytes?</button>
+        <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">Are you affiliated with McAfee or Malwarebytes?</button>
         <div class="faq-a"><?= $org_name ?> is an independent authorized reseller. We are not owned by, affiliated with, or endorsed by any software manufacturer unless explicitly disclosed. Brand names are used solely to identify the products we sell.</div>
       </div>
       <div class="faq-item">
