@@ -438,6 +438,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       font-size: 1.1rem;
     }
 
+    .card .ic img {
+      width: 32px;
+      height: 32px;
+      object-fit: contain;
+      border-radius: 4px;
+    }
+
     .card h3 {
       font-size: .95rem;
       margin-bottom: 4px;
@@ -848,27 +855,52 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- ── PRODUCTS ───────────────────────────────────────────── -->
   <section id="products">
     <div class="container">
-      <h2 class="stitle">Antivirus Software We Sell</h2>
+      <h2 class="stitle">What We Sell</h2>
       <div class="grid">
         <div class="card">
-          <div class="ic"><i class="fas fa-user-shield" aria-hidden="true"></i></div>
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=kaspersky.com&sz=64" alt="Kaspersky" loading="lazy"></div>
           <div>
-            <h3>McAfee Antivirus Protection</h3>
-            <p>Purchase McAfee internet security software with complete remote setup — installed, activated, and configured on your computer.</p>
+            <h3>Internet Security Software</h3>
+            <p>Complete internet security and cyber protection software — guards your browsing, identity, and online activity across all devices.</p>
           </div>
         </div>
         <div class="card">
-          <div class="ic"><i class="fas fa-bug-slash" aria-hidden="true"></i></div>
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=bitdefender.com&sz=64" alt="Bitdefender" loading="lazy"></div>
           <div>
-            <h3>Malwarebytes Anti-Malware</h3>
-            <p>Buy Malwarebytes Premium for real-time malware and virus protection. Includes guided remote installation on your PC or laptop.</p>
+            <h3>Antivirus for Windows PC</h3>
+            <p>Dedicated antivirus for Windows 10 and all Windows PCs and laptops — purchase includes remote installation and activation.</p>
           </div>
         </div>
         <div class="card">
-          <div class="ic"><i class="fas fa-laptop-code" aria-hidden="true"></i></div>
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=malwarebytes.com&sz=64" alt="Malwarebytes" loading="lazy"></div>
           <div>
-            <h3>Computer Antivirus + Internet Security</h3>
-            <p>Full computer antivirus protection bundle — antivirus software plus internet security in one purchase. Best for households with multiple devices.</p>
+            <h3>Virus &amp; Malware Protection</h3>
+            <p>Powerful virus and malware protection - blocks threats, spyware, and malicious software before they reach your device.</p>
+
+            
+          </div>
+        </div>
+        <div class="card">
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=avg.com&sz=64" alt="AVG" loading="lazy"></div>
+          <div>
+            <h3>AVG Antivirus</h3>
+            <p>Buy an AVG Antivirus subscription with guided remote setup — we handle installation and activation so you're protected right away.</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=avast.com&sz=64" alt="Avast" loading="lazy"></div>
+          <div>
+            <h3>Avast Antivirus</h3>
+            <p>Buy Avast Antivirus with guided remote setup — includes installation, activation, and configuration on your Windows or Mac device.</p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="ic"><img src="https://www.google.com/s2/favicons?domain=mcafee.com&sz=64" alt="McAfee" loading="lazy"></div>
+          <div>
+            <h3>Multi-Device &amp; Subscription Plans</h3>
+            <p>Antivirus subscription plans and bundles covering multiple devices — including McAfee Total Security and multi-seat license options.</p>
+
+
           </div>
         </div>
       </div>
