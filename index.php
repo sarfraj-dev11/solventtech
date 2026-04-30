@@ -826,7 +826,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container">
       <div class="badge">Authorized Reseller &bull; <?= $org_name ?></div>
       <h1>Buy Antivirus Software &amp; Computer Security Protection</h1>
-      <p>Purchase McAfee or Malwarebytes antivirus software for your PC or Mac — with professional remote installation included.</p>
+      <p>Purchase Kaspersky, Bitdefender, McAfee, Malwarebytes, AVG, or Avast antivirus software for your PC or Mac — with professional remote installation included.</p>
       <a href="<?= $phone_link ?>" class="hero-btn">
         <i class="fa-solid fa-phone" aria-hidden="true"></i> <?= $phone ?>
       </a>
@@ -846,7 +846,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container">
       <img
         src="https://solventtech.com/buy-antivirus-software.jpg"
-        alt="SolventTech support agent guiding a customer through remote antivirus installation"
+        alt="SolventTech Antivirus Software Subscription & Installation"
         style="width:100%;border-radius:var(--r);box-shadow:var(--sh);display:block;aspect-ratio:16/9;object-fit:cover;"
         loading="lazy">
     </div>
@@ -914,7 +914,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="steps">
         <div class="step">
           <h3>Choose Your Antivirus Software</h3>
-          <p>Call us to pick the right antivirus software for your PC or Mac — McAfee or Malwarebytes. We give transparent pricing upfront, no surprises.</p>
+          <p>Call us to pick the right antivirus software for your needs — Kaspersky, Bitdefender, McAfee, Malwarebytes, AVG, or Avast. We give transparent pricing upfront, no surprises.</p>
         </div>
         <div class="step">
           <h3>Complete Your Purchase</h3>
@@ -947,18 +947,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="faq-item">
         <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">What antivirus software do you sell?</button>
-        <div class="faq-a" role="region">We are an authorized reseller of McAfee and Malwarebytes antivirus software for PC and Mac. We also offer computer antivirus + internet security bundles. All prices are provided upfront before purchase.</div>
+        <div class="faq-a" role="region">We are an authorized reseller of Kaspersky, Bitdefender, McAfee, Malwarebytes, AVG, and Avast antivirus software for PC and Mac. We also offer internet security bundles and multi-device subscription plans. All prices are provided upfront before purchase.</div>
       </div>
       <div class="faq-item">
         <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">Which antivirus software is best for my computer?</button>
-        <div class="faq-a" role="region">For most Windows PCs, McAfee antivirus provides comprehensive protection including real-time virus, malware, and internet security. Malwarebytes is ideal if you want dedicated anti-malware alongside your existing antivirus. Call us and we'll recommend the best option for your device and budget.</div>
+        <div class="faq-a" role="region">It depends on your needs and budget. Kaspersky and Bitdefender offer strong all-round internet security, McAfee is great for multi-device households, AVG and Avast are solid free-to-premium options, and Malwarebytes excels at dedicated malware removal. Call us and we'll recommend the best fit for your device and budget.</div>
       </div>
       <div class="faq-item">
         <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">How does remote installation work?</button>
         <div class="faq-a">After your purchase, we use encrypted remote-access software to install and activate your product on your computer. You grant permission before we connect, you can see everything on screen, and you can end the session at any time.</div>
       </div>
       <div class="faq-item">
-        <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">Are you affiliated with McAfee or Malwarebytes?</button>
+        <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">Are you affiliated with any of these antivirus brands?</button>
         <div class="faq-a"><?= $org_name ?> is an independent authorized reseller. We are not owned by, affiliated with, or endorsed by any software manufacturer unless explicitly disclosed. Brand names are used solely to identify the products we sell.</div>
       </div>
       <div class="faq-item">
