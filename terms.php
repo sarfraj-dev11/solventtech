@@ -188,14 +188,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <h2>1. Products &amp; Services</h2>
       <p><?php echo $org_name; ?> ("we," "us," "our") is an independent authorized reseller of antivirus and security software products for customers in the United States. Our offerings include:</p>
       <ul>
-        <li>Sale of antivirus software licenses (Norton, McAfee, Malwarebytes)</li>
+        <li>Sale of antivirus software licenses (McAfee, Malwarebytes)</li>
         <li>Guided remote installation and activation of purchased software</li>
         <li>Sale of select productivity and security software bundles</li>
       </ul>
       <p>All product delivery and installation assistance is performed remotely via approved digital tools. We do not provide on-site visits, physical repairs, or hardware services.</p>
 
       <h2>2. Independent Reseller Disclaimer</h2>
-      <p><?php echo $org_name; ?> is an <strong>independent authorized reseller</strong>. We are <strong>not</strong> affiliated with, endorsed by, sponsored by, or partnered with Microsoft, Apple, Google, Norton, McAfee, Malwarebytes, or any other software manufacturer or OEM unless explicitly stated. All brand names, trademarks, and product names are property of their respective owners and are used for product identification only. Selling or installing third-party software does not constitute a partnership with the manufacturer.</p>
+      <p><?php echo $org_name; ?> is an <strong>independent authorized reseller</strong>. We are <strong>not</strong> affiliated with, endorsed by, sponsored by, or partnered with Microsoft, Apple, Google, McAfee, Malwarebytes, or any other software manufacturer or OEM unless explicitly stated. All brand names, trademarks, and product names are property of their respective owners and are used for product identification only. Selling or installing third-party software does not constitute a partnership with the manufacturer.</p>
 
       <h2>3. Eligibility</h2>
       <p>By purchasing from us, you represent that you are at least 18 years of age and located within the United States.</p>
