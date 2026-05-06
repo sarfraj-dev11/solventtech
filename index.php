@@ -10,14 +10,7 @@ $org_address = '100 1st St Apt 121, Rockville, MD 20851';
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title><?= $brand ?> — Antivirus Software Sales &amp; Remote Installation</title>
-  <meta name="description" content="Buy antivirus software for your PC or computer — McAfee or Malwarebytes. Authorized reseller with remote installation included. Call <?= $phone ?>.">
-  <meta name="robots" content="noindex, nofollow">
-  <link rel="icon" type="image/png" href="https://solventtech.com/favicon.png">
-  
-   
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -26,6 +19,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-P7LV3KDN');</script>
 <!-- End Google Tag Manager -->
  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><?= $brand ?> — Antivirus Software Sales &amp; Remote Installation</title>
+  <meta name="description" content="Buy antivirus software for your PC or computer — McAfee or Malwarebytes. Authorized reseller with remote installation included. Call <?= $phone ?>.">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="icon" type="image/png" href="https://solventtech.com/favicon.png">
 
 
   <!-- Fonts -->
